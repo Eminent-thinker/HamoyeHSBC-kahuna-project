@@ -1,0 +1,104 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+.current-displaying-btn {
+  background-color: #212529;
+  color: white;
+  pointer-events: none;
+}
+.notification {
+  max-width: 610px;
+}
+
+.container {
+  max-width: 610px;
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  font-family: Garamond, serif;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input[type="text"] {
+  width: 65%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+select {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 5px;
+  background-color: #fff;
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+}
+#notification-content {
+  color: #fff;
+}
+.progress {
+  height: 5px !important;
+}
+.completed {
+  text-decoration: line-through;
+  color: #999 !important;
+  /* make the button unclickable */
+  pointer-events: none;
+}
+.delete-btn {
+  text-decoration: none !important;
+  pointer-events: auto !important;
+}
+select option .high {
+  color: aqua !important;
+}
+.High {
+  color: red;
+}
+.Medium {
+  color: orange;
+}
+.Low {
+  color: burlywood;
+}
+.undo-btn:hover {
+  background-color: #212529 !important;
+  color: #fff !important;
+}
+
+.add-button {
+  background-color: #212529 !important;
+  color: #fff !important;
+}
+@media (max-width: 798px) {
+  span {
+    display: block;
+  }
+  #notification-content {
+    width: 80% !important;
+  }
+}
