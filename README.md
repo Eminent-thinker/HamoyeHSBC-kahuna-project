@@ -13,13 +13,16 @@ Click [here](https://youtu.be/uX6n3O1F9z8?si=5GqmNqFVdIpSWT0C) to watch the pres
   - Grouping of the task incase user wants to see only pending tasks or completed tasks.
   - Improved the UI of the of the webpage. 
 
- - *Name: Usman Rasheed*
+## *Name* : Usman Rasheed
+
    - Primarily centers on insights.
    - Created a JSON file to store completed tasks and emphasize tracking tasks by week number, offering insights on weekly completion progress rather than analyzing the entire JSON task list.
 
- - *Name: Baribeop Leele*
+## *Name* : Baribeop Leele
+
    - Added the validation function and call it to validate data imputed , returning appropriate message when data entered is invalid (contains anything other than letters). 
    - Also created requirements.txt file to keep track of modules used for the project.
 
- - *Name: Elvis Governor*
+## *Name* : Elvis Governor
+
    - Handling the presentation of the project on YouTube
