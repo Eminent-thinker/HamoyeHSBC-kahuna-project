@@ -1,10 +1,14 @@
 # HamoyeHSBC-kahuna-project
-- The task is to develop a simple To-Do app web application that will be used to set and keep track of all your activities for each week. Users should be able to add, complete, or delete tasks. Additionally, users should be able to view insights into their task completion habits.
-- Click [here](https://hamoye-team-oladimeji-todo-app.onrender.com) to see the app interface.
-- Click [here](https://youtu.be/uX6n3O1F9z8?si=5GqmNqFVdIpSWT0C) to watch the presentation on YouTube.
+
+The task is to develop a simple To-Do app web application that will be used to set and keep track of all your activities for each week. Users should be able to add, complete, or delete tasks. Additionally, users should be able to view insights into their task completion habits.
+
+Click [here](https://hamoye-team-oladimeji-todo-app.onrender.com) to see the app interface.
+
+Click [here](https://youtu.be/uX6n3O1F9z8?si=5GqmNqFVdIpSWT0C) to watch the presentation on YouTube.
 
 # Here are the names of the active group members and their contributions:
-- *Name: Oke Oluwasola*
+## *Name* : Oke Oluwasola
+  
   - Added a pop up notification, when the user deletes or complete a task. They can easily undo incase the action was a mistake.
   - Grouping of the task incase user wants to see only pending tasks or completed tasks.
   - Improved the UI of the of the webpage. 
